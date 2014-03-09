@@ -351,10 +351,11 @@ public class KokubanActivity extends Activity implements OnFocusChangeListener,j
             	kokuban_view.kokubanMode = true;
                 break;
             case CodeDefine.MENU_3:
+            	kokuban_view.setImgResource(R.drawable.snow);
             	kokuban_view.kokubanMode = false;
                 break;
             case CodeDefine.MENU_4:
-                this.modeKokuban();
+//                this.modeKokuban();
                 kokuban_view.kokubanMode = true;
                 break;
             case CodeDefine.MENU_5:

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+  xmlns:myapp="http://schemas.android.com/apk/res/jp.co.hiratsuka.kokuban"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+  android:id="@+id/top"
+  >
+  <com.google.ads.AdView
+    android:id="@+id/adView"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    ads:adUnitId="ca-app-pub-8789201169323567/1546598708"
+    ads:adSize="BANNER"
+    ads:loadAdOnCreate="true"/>
+  
+
+<ListView
+    android:id="@+id/list"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:layout_weight="1"
+    ></ListView>
+
+</LinearLayout>

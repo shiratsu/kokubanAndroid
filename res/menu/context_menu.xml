@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+     android:id="@+id/item1"
+     android:title="@string/select_photo"
+     android:icon="@android:drawable/ic_menu_upload"
+     ></item>
+  <item
+     android:id="@+id/item2"
+     android:title="@string/save_libraly"
+     ></item>
+  <item
+     android:id="@+id/item3"
+     android:title="@string/snow_image"
+     ></item>
+  <item
+     android:id="@+id/item4"
+     android:title="@string/use_year"
+     ></item>
+  <item
+     android:id="@+id/item5"
+     android:title="@string/use_yukidaruma"
+     ></item>
+  <item
+     android:id="@+id/item6"
+     android:title="@string/use_chork"
+     ></item>
+  <item
+     android:id="@+id/item7"
+     android:title="@string/line_select"
+     ></item>
+  <item
+     android:id="@+id/item8"
+     android:title="@string/end"
+     ></item>
+
+</menu>

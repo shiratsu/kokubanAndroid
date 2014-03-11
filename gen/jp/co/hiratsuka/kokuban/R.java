@@ -17,8 +17,8 @@ public final class R {
          screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
     
          */
-        public static final int activity_horizontal_margin=0x7f050000;
-        public static final int activity_vertical_margin=0x7f050001;
+        public static final int activity_horizontal_margin=0x7f040000;
+        public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
         public static final int back=0x7f020000;
@@ -81,45 +81,44 @@ public final class R {
         public static final int kokuban_menu=0x7f070001;
     }
     public static final class string {
-        public static final int PostExplain=0x7f040002;
-        public static final int admob_unit_id=0x7f040000;
-        public static final int all_elase=0x7f040016;
-        public static final int api_response=0x7f040009;
-        public static final int app_name=0x7f040001;
-        public static final int blue=0x7f040011;
-        public static final int buy_kokuban=0x7f040020;
-        public static final int close=0x7f04000d;
-        public static final int default_elase=0x7f04001a;
-        public static final int elase_mode=0x7f040014;
-        public static final int end=0x7f040026;
-        public static final int external_title=0x7f04000b;
-        public static final int facebook_error=0x7f040007;
-        public static final int green=0x7f040013;
-        public static final int image_get_error=0x7f040019;
-        public static final int kokuban_mode=0x7f04001c;
-        public static final int line_select=0x7f040022;
-        public static final int menu=0x7f040023;
-        public static final int now_sending=0x7f040003;
-        public static final int red=0x7f040010;
-        public static final int save=0x7f04000c;
-        public static final int save_complete=0x7f04000e;
-        public static final int save_libraly=0x7f04001b;
-        public static final int select_elase=0x7f040015;
-        public static final int select_photo=0x7f040018;
-        public static final int sen10=0x7f040025;
-        public static final int sen5=0x7f040024;
-        public static final int sending_complete=0x7f040004;
-        public static final int sending_error=0x7f040005;
-        public static final int snow_image=0x7f04001d;
-        public static final int twitter_error=0x7f040006;
-        public static final int twitterfacebook_error=0x7f040008;
-        public static final int use_chork=0x7f04001f;
-        public static final int use_year=0x7f040021;
-        public static final int use_yukidaruma=0x7f04001e;
-        public static final int view_photo=0x7f04000a;
-        public static final int white=0x7f04000f;
-        public static final int yellow=0x7f040012;
-        public static final int yubi_elase=0x7f040017;
+        public static final int PostExplain=0x7f050000;
+        public static final int all_elase=0x7f050014;
+        public static final int api_response=0x7f050007;
+        public static final int app_name=0x7f050025;
+        public static final int blue=0x7f05000f;
+        public static final int buy_kokuban=0x7f05001e;
+        public static final int close=0x7f05000b;
+        public static final int default_elase=0x7f050018;
+        public static final int elase_mode=0x7f050012;
+        public static final int end=0x7f050024;
+        public static final int external_title=0x7f050009;
+        public static final int facebook_error=0x7f050005;
+        public static final int green=0x7f050011;
+        public static final int image_get_error=0x7f050017;
+        public static final int kokuban_mode=0x7f05001a;
+        public static final int line_select=0x7f050020;
+        public static final int menu=0x7f050021;
+        public static final int now_sending=0x7f050001;
+        public static final int red=0x7f05000e;
+        public static final int save=0x7f05000a;
+        public static final int save_complete=0x7f05000c;
+        public static final int save_libraly=0x7f050019;
+        public static final int select_elase=0x7f050013;
+        public static final int select_photo=0x7f050016;
+        public static final int sen10=0x7f050023;
+        public static final int sen5=0x7f050022;
+        public static final int sending_complete=0x7f050002;
+        public static final int sending_error=0x7f050003;
+        public static final int snow_image=0x7f05001b;
+        public static final int twitter_error=0x7f050004;
+        public static final int twitterfacebook_error=0x7f050006;
+        public static final int use_chork=0x7f05001d;
+        public static final int use_year=0x7f05001f;
+        public static final int use_yukidaruma=0x7f05001c;
+        public static final int view_photo=0x7f050008;
+        public static final int white=0x7f05000d;
+        public static final int yellow=0x7f050010;
+        public static final int yubi_elase=0x7f050015;
     }
     public static final class style {
         /** 

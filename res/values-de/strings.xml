@@ -27,15 +27,15 @@
  <string name="image_get_error">Konnte nicht abgerufen werden das Foto</string>
  <string name="default_elase">Initialisieren</string>
 
- <string name="save_libraly">ライブラリに保存する</string>
- <string name="kokuban_mode">黒板を表示する</string>
- <string name="snow_image">雪結晶</string>
- <string name="use_yukidaruma">雪だるまを使う</string>
- <string name="use_chork">チョークを使う</string>
- <string name="buy_kokuban">広告を消してフル機能使えるようにする</string>
- <string name="use_year">年を使う</string>
- <string name="line_select">線の太さを選ぶ</string>
- <string name="menu">Menu</string>
- <string name="sen5">5cm幅</string>
- <string name="sen10">10cm幅（デフォルト）</string>
+ <string name="save_libraly">Ich Bibliothek speichern</string>
+ <string name="kokuban_mode">Ich die Tafel sehen</string>
+ <string name="snow_image">Schneekristall</string>
+ <string name="use_yukidaruma">Ich benutze einen Schneemann</string>
+ <string name="use_chork">Ich benutze die Drossel</string>
+ <string name="buy_kokuban">Bekommen sie voll funktions wiederum Arbeit aus den Anzeigen</string>
+ <string name="use_year">Ich verbringe ein Jahr</string>
+ <string name="line_select">Ich wähle die Linienstärke</string>
+ <string name="menu">Menü</string>
+ <string name="sen5">5cm Breite</string>
+ <string name="sen10">10cm Breite (Standard)</string>
 </resources>

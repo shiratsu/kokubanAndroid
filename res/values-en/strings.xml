@@ -27,16 +27,16 @@
  <string name="image_get_error">Could not get the photo</string>
  <string name="default_elase">Initialize</string>
 
- <string name="save_libraly">ライブラリに保存する</string>
- <string name="kokuban_mode">黒板を表示する</string>
- <string name="snow_image">雪結晶</string>
- <string name="use_yukidaruma">雪だるまを使う</string>
- <string name="use_chork">チョークを使う</string>
- <string name="buy_kokuban">広告を消してフル機能使えるようにする</string>
- <string name="use_year">年を使う</string>
- <string name="line_select">線の太さを選ぶ</string>
- <string name="end">終了</string>
+ <string name="save_libraly">save to library</string>
+ <string name="kokuban_mode">view the blackboard</string>
+ <string name="snow_image">Snow crystal</string>
+ <string name="use_yukidaruma">use a snowman</string>
+ <string name="use_chork">use the choke</string>
+ <string name="buy_kokuban">Getting them to work full-featured turn off the ads</string>
+ <string name="use_year">spend a year</string>
+ <string name="line_select">choose the line thickness</string>
+ <string name="end">end</string>
  <string name="menu">Menu</string>
- <string name="sen5">5cm幅</string>
- <string name="sen10">10cm幅（デフォルト）</string>
+ <string name="sen5">5cm width</string>
+ <string name="sen10">10cm width (default)</string>
 </resources>

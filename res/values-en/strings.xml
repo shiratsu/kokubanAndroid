@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
  <string name="PostExplain">Please input comment to contribute with an image</string>
  <string name="now_sending">During the transmission ...</string>
  <string name="sending_complete">I transmitted a message and was completed</string>
@@ -35,7 +35,7 @@
  <string name="buy_kokuban">Getting them to work full-featured turn off the ads</string>
  <string name="use_year">spend a year</string>
  <string name="line_select">choose the line thickness</string>
- <string name="end">end</string>
+ <string name="end">finish</string>
  <string name="menu">Menu</string>
  <string name="sen5">5cm width</string>
  <string name="sen10">10cm width (default)</string>

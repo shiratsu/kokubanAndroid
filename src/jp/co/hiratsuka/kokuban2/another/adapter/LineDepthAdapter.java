@@ -1,9 +1,9 @@
-package jp.co.hiratsuka.kokuban.another.adapter;
+package jp.co.hiratsuka.kokuban2.another.adapter;
 
 import java.util.HashMap;
 import java.util.List;
 
-import jp.co.hiratsuka.kokuban.R;
+import jp.co.hiratsuka.kokuban2.R;
 
 import android.content.Context;
 import android.view.LayoutInflater;

@@ -1,11 +1,11 @@
-package jp.co.hiratsuka.kokuban.another.utils;
+package jp.co.hiratsuka.kokuban2.another.utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import jp.co.hiratsuka.kokuban.R;
-import jp.co.hiratsuka.kokuban.another.adapter.MenuAdapter;
+import jp.co.hiratsuka.kokuban2.R;
+import jp.co.hiratsuka.kokuban2.another.adapter.MenuAdapter;
 
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;

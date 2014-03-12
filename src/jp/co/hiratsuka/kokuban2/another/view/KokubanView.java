@@ -1,9 +1,9 @@
-package jp.co.hiratsuka.kokuban.another.view;
+package jp.co.hiratsuka.kokuban2.another.view;
 
 
 import java.util.ArrayList;
 
-import jp.co.hiratsuka.kokuban.R;
+import jp.co.hiratsuka.kokuban2.R;
 
 import android.app.Activity;
 import android.content.Context;

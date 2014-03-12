@@ -1,4 +1,4 @@
-package jp.co.hiratsuka.kokuban.another.utils;
+package jp.co.hiratsuka.kokuban2.another.utils;
 
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;

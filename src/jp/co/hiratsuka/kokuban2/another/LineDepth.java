@@ -1,4 +1,4 @@
-package jp.co.hiratsuka.kokuban.another;
+package jp.co.hiratsuka.kokuban2.another;
 
 import java.util.ArrayList;
 
@@ -15,9 +15,9 @@ import com.google.ads.AdRequest;
 import com.google.ads.AdSize;
 import com.google.ads.AdView;
 
-import jp.co.hiratsuka.kokuban.R;
-import jp.co.hiratsuka.kokuban.another.adapter.LineDepthAdapter;
-import jp.co.hiratsuka.kokuban.another.view.KokubanView;
+import jp.co.hiratsuka.kokuban2.R;
+import jp.co.hiratsuka.kokuban2.another.adapter.LineDepthAdapter;
+import jp.co.hiratsuka.kokuban2.another.view.KokubanView;
 import android.app.Activity;
 import android.app.ListActivity;
 import android.content.SharedPreferences;

@@ -1,4 +1,4 @@
-package jp.co.hiratsuka.kokuban.another;
+package jp.co.hiratsuka.kokuban2.another;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,11 +10,11 @@ import com.google.ads.AdRequest;
 import com.google.ads.AdSize;
 import com.google.ads.AdView;
 
-import jp.co.hiratsuka.kokuban.R;
-import jp.co.hiratsuka.kokuban.another.conf.CodeDefine;
-import jp.co.hiratsuka.kokuban.another.utils.AndroidUtils;
-import jp.co.hiratsuka.kokuban.another.utils.ListDialog;
-import jp.co.hiratsuka.kokuban.another.view.KokubanView;
+import jp.co.hiratsuka.kokuban2.R;
+import jp.co.hiratsuka.kokuban2.another.conf.CodeDefine;
+import jp.co.hiratsuka.kokuban2.another.utils.AndroidUtils;
+import jp.co.hiratsuka.kokuban2.another.utils.ListDialog;
+import jp.co.hiratsuka.kokuban2.another.view.KokubanView;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -51,7 +51,7 @@ import android.graphics.Paint;
 import android.graphics.Path;
 
 
-public class KokubanActivity extends Activity implements OnFocusChangeListener,jp.co.hiratsuka.kokuban.another.utils.ListDialog.OnStringSelectListener {
+public class KokubanActivity extends Activity implements OnFocusChangeListener,jp.co.hiratsuka.kokuban2.another.utils.ListDialog.OnStringSelectListener {
 
     private static final String TAG = "KokubanActivity";
     public KokubanView kokuban_view;

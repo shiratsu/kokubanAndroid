@@ -1,9 +1,9 @@
-package jp.co.hiratsuka.kokuban.another;
+package jp.co.hiratsuka.kokuban2.another;
 
 
 import java.util.Random;
 
-import jp.co.hiratsuka.kokuban.R;
+import jp.co.hiratsuka.kokuban2.R;
 
 import android.app.Activity;
 import android.content.Intent;

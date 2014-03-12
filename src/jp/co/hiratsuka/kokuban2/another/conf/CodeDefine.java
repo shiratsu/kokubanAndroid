@@ -1,4 +1,4 @@
-package jp.co.hiratsuka.kokuban.another.conf;
+package jp.co.hiratsuka.kokuban2.another.conf;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
